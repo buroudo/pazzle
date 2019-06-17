@@ -1,0 +1,11 @@
+@charset "UTF-8";
+#canvas{
+    width: 800px;
+    height: 600px;
+    touch-action: none;
+}
+#START{
+    position: absolute;
+    left: 250px;
+    top: 250px;
+}
